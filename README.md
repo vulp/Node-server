@@ -5,7 +5,9 @@ https://github.com/vulp/react-native
 
 
 Mongo:
+
 db.movies.find().pretty()
+
 {
         "_id" : ObjectId("572cda2d9367da668f443714"),
         "title" : "test4",
