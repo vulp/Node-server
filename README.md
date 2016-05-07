@@ -1,7 +1,7 @@
 # node-server
 Nodejs Express MongoDB
 
-##React-native front end
+##React-native front-end
 https://github.com/vulp/react-native
 
 
