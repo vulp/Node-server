@@ -1,5 +1,7 @@
 # node-server
-Nodejs Express MongoDB
+[Nodejs] (https://nodejs.org/en/)
+[Express] (http://expressjs.com/) 
+[MongoDB]  (https://www.mongodb.com/)
 
 ##
 ``` shell
