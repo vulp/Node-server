@@ -1,6 +1,12 @@
 # node-server
 Nodejs Express MongoDB
 
+##
+``` shell
+npm install
+``` 
+To install packages in package.json
+
 ##Mongo
 
 Download mongo from:  https://www.mongodb.com/
