@@ -18,6 +18,7 @@ server.post('/add', function(req, res,next) {
 	console.log('add');
 	var db = req.db;
 	var collection = db.get('servers');
+	//todo validate data
 	collection.insert(req.body);
 });
 
